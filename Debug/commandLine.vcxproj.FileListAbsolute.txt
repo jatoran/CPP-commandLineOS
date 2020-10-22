@@ -1,0 +1,4 @@
+G:\Google Drive\[[Projects\VSCode Projects\commandLine\Debug\commandLine.exe
+G:\Google Drive\[[Projects\VSCode Projects\commandLine\Debug\commandLine.pdb
+G:\Google Drive\[[Projects\VSCode Projects\C++ CommandLine\Debug\commandLine.exe
+G:\Google Drive\[[Projects\VSCode Projects\C++ CommandLine\Debug\commandLine.pdb
