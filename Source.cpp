@@ -1,7 +1,7 @@
 //future stuff: kadane's, djikstra's, A*, shunting/prefix/postfix/infix/minmaxGame/hash functions/ hash tables/ cryptography
 //median of medians, quickselect, huffman coding, knuth morris pratt algorithm
 //creating files that are executable (batch and other stuff)/intellisense/input memory (history of typed commands with up/down arrow keys)
-//some system environment variables that are handled in the system object like how many commands are kept track of and executable paths etc.
+//some system envirdonment variables that are handled in the system object like how many commands are kept track of and executable paths etc.
 //make cd work with absolute paths in general instead of just currently viewable folders and the parent (..) folder
 //serialization (which is file i/o)
 //color possibility: https://repl.it/@PasAdam/Drawing-pro#main.cpp
