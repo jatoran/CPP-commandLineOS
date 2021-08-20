@@ -2,6 +2,7 @@
 
 ### Console Basic Folder/File I/O Operating System in C++
 
+![alt text](https://raw.githubusercontent.com/jatoran/CPP-commandLineOS/main/images/consoleSS.png)
 
 ### Basic Commands
 
